@@ -1,0 +1,108 @@
+#section1 {
+    background-color: black;
+    width: full-width;
+    height: 500px;
+    
+
+}
+
+#section2 {
+    background-color: gray;
+    height: fit-content;
+    width: full-width;
+    margin: 0;
+    list-style-type: square;  
+}
+
+#heading-margin {
+    margin-left: 8.5%;
+    margin-bottom: 3%;
+}
+
+#contact-icons {
+    margin-right: 10px;
+}
+
+#date {
+    text-align: right;
+    color: whitesmoke;
+    font-weight: 600;
+}
+
+#company {
+    text-align: left;
+}
+
+#section3 {
+    background-color: lightslategray;
+    height: 300px;
+    width: full-width;
+    margin: 0;
+}
+
+#project-section {
+    background-color: black;
+    height: 500px;
+    width: full-width;
+    margin: 0;
+}
+
+#projects {
+    margin-top: 2%;
+    margin-left: 20px;
+}
+
+h1 {
+    font-size: 5em;
+    font-weight: 600;
+    color: white;
+    text-align: left;
+    margin-left: 60px;
+    padding-top: 120px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 3em;
+    color: honeydew;
+    padding-top: 5% ;
+    margin-left: 5%;
+}
+
+h3 {
+    font-size: 2em;
+    color: honeydew;
+    font-weight: 400;
+    margin: 0;
+}
+
+h4 {
+    font-size: 1.7em;
+    font-weight: 400;
+}
+
+p {
+    font-size: 0.8;
+    color: black
+}
+
+nav {
+    background-color:black;
+    color: white;
+   
+}
+
+#tech-icons{
+    color: blanchedalmond;
+    margin: 10px;
+}
+
+.progress-bar {
+    background-color: black;
+}
+
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
